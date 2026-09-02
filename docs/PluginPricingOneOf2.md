@@ -1,0 +1,13 @@
+# PluginPricingOneOf2
+
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**`price_per_month`** | **`Float64`** |  | [default to nothing]
+**`type`** | **`String`** |  | [default to nothing]
+
+
+[[Back to Model list]](../README.md#models) [[Back to API list]](../README.md#api-endpoints) [[Back to README]](../README.md)
+
+
